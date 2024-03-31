@@ -1,0 +1,87 @@
+
+{
+    "locations" :[ 
+
+    {
+        "id": 0,
+        "name": "MANOS LIBRES INPODS 12  ",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/AUDIFONOS.png",
+        "availableUnits": 4
+        
+      },
+      {
+        "id": 1,
+        "name": "CARGADOR SAMSUNG PD",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/CARGADOR.png",
+        "availableUnits": 4
+      },
+      {
+        "id": 2,
+        "name": "CONTROL PLAY 3 TP-PS3",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/CONTROL.png",
+        "availableUnits": 4
+      },
+      {
+        "id": 3,
+        "name": "DIADEMA GAMER V2949",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/DIADEMAS.png",
+        "availableUnits": 4
+        
+      },
+      {
+        "id": 4,
+        "name": "PORTATIL ASUS X515EA 15",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/PORTATIL.png",
+        "availableUnits": 4
+      },
+      {
+        "id": 5,
+        "name": "SMARTWATCH I9 ULTRA MAX",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/RELOJ.png",
+        "availableUnits": 4
+      },
+      {
+        "id": 6,
+        "name": "TELEVISOR TG 32",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/TV.png",
+        "availableUnits": 4
+      },
+      {
+        "id": 7,
+        "name": "CONTROL X3",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/images/control de cell.png",
+        "availableUnits": 4
+      },
+      
+      {
+        "id": 8,
+        "name": "OTROS",
+        "city": "COLOMBIA",
+        "state": "- NUEVO",
+        "photo": "/assets/LG-BARRA.png",
+        "availableUnits": 0
+       
+       
+      }
+
+     ]
+
+
+
+} 
